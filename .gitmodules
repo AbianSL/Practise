@@ -1,0 +1,3 @@
+[submodule "Agda"]
+	path = Agda
+	url = git@github.com:AbianSL/Practise_Agda.git
